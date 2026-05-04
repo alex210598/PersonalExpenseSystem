@@ -20,7 +20,7 @@ Il sistema è sviluppato in Python, un linguaggio di programmazione interpretato
 Pertanto, non è richiesta alcuna fase di compilazione preventiva.
 Il codice sorgente viene eseguito direttamente dall'interprete Python.
 
-2. Istruzioni di avvio
+2. Istruzioni di avvio: 
 Per avviare correttamente l'applicazione, segui questi passaggi:
 Apertura Terminale: Apri il terminale (o Prompt dei comandi su Windows, Terminale su Linux).
 Ambiente: Assicurati di avere Python 3 installato digitando python --version oppure python3 --version oppure py --version.
