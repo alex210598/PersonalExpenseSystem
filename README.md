@@ -18,13 +18,13 @@ Non è necessario installare pacchetti esterni.
 
 Istruzioni dettagliate per eseguire il programma
 
+
 1. Istruzioni di compilazione:
    
 Il sistema è sviluppato in Python, un linguaggio di programmazione interpretato. Il codice sorgente viene eseguito direttamente dall'interprete Python.
 
-3. Istruzioni di avvio:
 
-Per avviare correttamente l'applicazione, segui questi passaggi:
+2. Istruzioni di avvio:
 
 Apertura Terminale: Apri il terminale (o Prompt dei comandi su Windows, Terminale su Linux).
 
@@ -34,9 +34,9 @@ Posizionamento: Naviga fino alla cartella principale del progetto (quella che co
 
 Esempio: cd percorso/della/cartella/PersonalExpenseSystem
 
-5. Dalla cartella principale del progetto, digita uno dei seguenti comandi e premi Invio:
+3. Dalla cartella principale del progetto, digita uno dei seguenti comandi e premi Invio:
 python src/main.py oppure py src/main.py
 
-6. Inizializzazione:
+4. Inizializzazione:
 Al primo avvio, il programma individuerà automaticamente lo script sql/database.sql e creerà il file del database src/spese_personali.db.
 Interfaccia: Comparirà immediatamente il menu principale testuale con le 5 opzioni di gestione.
