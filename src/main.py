@@ -163,4 +163,7 @@ def menu_principale():
         else: print("Scelta non valida. Riprovare.")
 
 if __name__ == "__main__":
+    print("========================================")
+    print("   BENVENUTO NEL GESTORE SPESE PERSONALI")
+    print("========================================")
     menu_principale()
