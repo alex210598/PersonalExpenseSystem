@@ -6,7 +6,7 @@ Python 3.x: Il codice è scritto in Python 3 ed è compatibile con le versioni p
 Non è necessario un compilatore, trattandosi di un linguaggio interpretato.
 
 Librerie standard utilizzate:
-Il progetto è stato sviluppato utilizzando esclusivamente la Standard Library di Python per massimizzare la portabilità e facilitare la correzione, 
+Il progetto è stato sviluppato utilizzando esclusivamente la Standard Library di Python per massimizzare la portabilità e facilitare la correzione.
 Non è necessario installare pacchetti esterni.
 
 - sqlite3: Utilizzata per creare, connettere e interrogare il database relazionale spese_personali.db.
