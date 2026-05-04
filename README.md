@@ -35,8 +35,11 @@ Posizionamento: Naviga fino alla cartella principale del progetto (quella che co
 Esempio: cd percorso/della/cartella/PersonalExpenseSystem
 
 3. Dalla cartella principale del progetto, digita uno dei seguenti comandi e premi Invio:
+   
 python src/main.py oppure py src/main.py
 
 4. Inizializzazione:
+
 Al primo avvio, il programma individuerà automaticamente lo script sql/database.sql e creerà il file del database src/spese_personali.db.
+
 Interfaccia: Comparirà immediatamente il menu principale testuale con le 5 opzioni di gestione.
