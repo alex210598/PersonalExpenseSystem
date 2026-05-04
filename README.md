@@ -15,7 +15,7 @@ Non è necessario installare pacchetti esterni.
 
 
 Istruzioni dettagliate per eseguire il programma
-1. Istruzioni di compilazione
+1. Istruzioni di compilazione:
 Il sistema è sviluppato in Python, un linguaggio di programmazione interpretato.
 Pertanto, non è richiesta alcuna fase di compilazione preventiva.
 Il codice sorgente viene eseguito direttamente dall'interprete Python.
