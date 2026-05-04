@@ -1,4 +1,4 @@
-Requisiti per l’esecuzione
+Requisiti per l’esecuzione.
 Per garantire il corretto funzionamento del software sono necessari i seguenti componenti:
 
 Interprete necessario:
